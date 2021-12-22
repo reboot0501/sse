@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SsedemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SsedemoApplication.class, args);
+		SpringApplication.run(SsedemoApplication.class, args); 
 	}
 
 }
